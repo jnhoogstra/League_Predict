@@ -1,1 +1,3 @@
-# League_Predict
+# Predicting League of Legends using 10 minutes of data
+by: Andre Yu Tiamco, Jerry Huspeth, and Jacob Hoogstra  
+In this project, we used machine learning techniques on a [large dataset](https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min) of nearly 10,000 high diamond games in the popular MOBA League of Legends. We also performed similar analysis on a dataset of around 8,000 professional games. The goal was to create a models that, given the first 10 minutes of a given game of LoL, could predict the victor. The results are intended for eventual use in professional and amateur training and practice, as we hope to provide insight into the keys to victory in the early-game strategy of the game.
